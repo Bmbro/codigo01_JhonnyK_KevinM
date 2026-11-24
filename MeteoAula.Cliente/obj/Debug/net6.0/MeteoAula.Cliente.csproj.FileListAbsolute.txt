@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\bin\Debug\net6.0\MeteoAula.Cliente.exe
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\bin\Debug\net6.0\MeteoAula.Cliente.deps.json
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\bin\Debug\net6.0\MeteoAula.Cliente.runtimeconfig.json
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\bin\Debug\net6.0\MeteoAula.Cliente.dll
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\bin\Debug\net6.0\MeteoAula.Cliente.pdb
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.AssemblyInfo.cs
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.dll
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\refint\MeteoAula.Cliente.dll
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.pdb
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAula.Cliente.genruntimeconfig.cache
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\ref\MeteoAula.Cliente.dll
+C:\Users\LENOVO\Downloads\MeteoAula\MeteoAula\MeteoAula.Cliente\obj\Debug\net6.0\MeteoAul.43AFF9D1.Up2Date

@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuevo perfil",
+    "Projects": [
+      {
+        "Path": "MeteoAula.Servidor\\MeteoAula.Servidor.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "MeteoAula.Cliente\\MeteoAula.Cliente.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
